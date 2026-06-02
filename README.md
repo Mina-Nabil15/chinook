@@ -218,6 +218,6 @@ Features:
 
 ## 👤 Author
 
-Aya Magdy
+Mina Nabil
 
 Data Analyst | Power BI Developer
