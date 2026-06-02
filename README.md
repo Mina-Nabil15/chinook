@@ -216,6 +216,12 @@ Features:
 
 ---
 
+## Contributors
+
+This project was completed in collaboration with my colleague, @Aya-Magdy23. We jointly contributed to all stages of the project, from data preparation and analysis to dashboard development and final implementation.
+
+---
+
 ## 👤 Author
 
 Mina Nabil
