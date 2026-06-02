@@ -6,8 +6,6 @@ This project presents an interactive Business Intelligence dashboard built using
 
 The solution combines SQL querying, Power Query transformations, DAX calculations, and professional dashboard design to support data-driven decision-making.
 
-https://app.powerbi.com/view?r=eyJrIjoiODU4ZDk2YjgtNWQ5NS00MDI3LWJhYzAtYTkwNGNjNzk3MTYwIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9
-
 ---
 
 ## 🎯 Project Objectives
@@ -217,7 +215,12 @@ Features:
 
 
 ---
-
 ## Contributors
 
-This project was completed in collaboration with my colleague, @Aya-Magdy23. We jointly contributed to all stages of the project, from data preparation and analysis to dashboard development and final implementation.
+This project was completed in collaboration with my colleague, @Aya-Magdy23. We jointly contributed to all stages of the project, 
+from data preparation and analysis to dashboard development and final implementation.
+
+---
+## Project link
+
+https://app.powerbi.com/view?r=eyJrIjoiODU4ZDk2YjgtNWQ5NS00MDI3LWJhYzAtYTkwNGNjNzk3MTYwIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9
