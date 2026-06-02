@@ -5,6 +5,7 @@
 This project presents an interactive Business Intelligence dashboard built using the Chinook Database. The dashboard provides comprehensive insights into sales performance, customer behavior, music trends, and business growth through advanced data visualization and analytics.
 
 The solution combines SQL querying, Power Query transformations, DAX calculations, and professional dashboard design to support data-driven decision-making.
+https://app.powerbi.com/view?r=eyJrIjoiODU4ZDk2YjgtNWQ5NS00MDI3LWJhYzAtYTkwNGNjNzk3MTYwIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9
 
 ---
 
